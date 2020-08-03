@@ -3740,7 +3740,7 @@
     }
      .navbar-right {
          float: right !important;
-         margin-right: -450px;
+         margin-right: -320px;
     }
      .navbar-right ~ .navbar-right {
          margin-right: 0;
