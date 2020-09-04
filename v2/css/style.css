@@ -2008,6 +2008,11 @@ p {
   position: relative;
 }
 
+.section-three {
+  padding: 100px 0;
+  position: relative;
+}
+
 .bg-overlay {
   background-color: rgba(60, 72, 88, 0.7);
   position: absolute;
