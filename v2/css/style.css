@@ -4828,7 +4828,7 @@ p {
 
 .footer {
   background: #202942;
-  padding: 60px 0;
+  /* padding: 60px 0; */
   position: relative;
   color: #adb5bd;
 }
